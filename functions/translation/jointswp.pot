@@ -1,0 +1,348 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dbedu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-07 16:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: functions/comments.php:18
+msgid " F jS, Y - g:ia"
+msgstr ""
+
+#: functions/comments.php:17
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/page-navi.php:13
+msgid "&laquo;"
+msgstr ""
+
+#: functions/page-navi.php:14
+msgid "&raquo;"
+msgstr ""
+
+#: functions/comments.php:19
+msgid "(Edit)"
+msgstr ""
+
+#: functions/cleanup.php:71
+msgid "... Read more &raquo;"
+msgstr ""
+
+#: functions/related-posts.php:18
+msgid "<h4>Related Posts</h4>"
+msgstr ""
+
+#: functions/admin.php:65
+msgid ""
+"<span id=\"footer-thankyou\">Developed by <a href=\"#\" target=\"_blank\">"
+"Your Site Name</a></span>."
+msgstr ""
+
+#: functions/custom-post-type.php:25
+msgid "Add New"
+msgstr ""
+
+#: functions/custom-post-type.php:81
+msgid "Add New Custom Category"
+msgstr ""
+
+#: functions/custom-post-type.php:104
+msgid "Add New Custom Tag"
+msgstr ""
+
+#: functions/custom-post-type.php:26
+msgid "Add New Custom Type"
+msgstr ""
+
+#: functions/custom-post-type.php:76
+msgid "All Custom Categories"
+msgstr ""
+
+#: functions/custom-post-type.php:24
+msgid "All Custom Posts"
+msgstr ""
+
+#: functions/custom-post-type.php:99
+msgid "All Custom Tags"
+msgstr ""
+
+#: comments.php:30 comments.php:46
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/custom-post-type.php:73
+msgid "Custom Categories"
+msgstr ""
+
+#: functions/custom-post-type.php:74
+msgid "Custom Category"
+msgstr ""
+
+#: functions/custom-post-type.php:23
+msgid "Custom Post"
+msgstr ""
+
+#: functions/admin.php:51
+msgid "Custom RSS Feed (Customize in admin.php)"
+msgstr ""
+
+#: functions/custom-post-type.php:97
+msgid "Custom Tag"
+msgstr ""
+
+#: functions/custom-post-type.php:96
+msgid "Custom Tags"
+msgstr ""
+
+#: functions/custom-post-type.php:22
+msgid "Custom Types"
+msgstr ""
+
+#. Name of the theme
+msgid "dbedu"
+msgstr ""
+
+#. Description of the theme
+msgid "Docs Barcelona Educacio WP theme"
+msgstr ""
+
+#: functions/custom-post-type.php:27
+msgid "Edit"
+msgstr ""
+
+#: functions/custom-post-type.php:79
+msgid "Edit Custom Category"
+msgstr ""
+
+#: functions/custom-post-type.php:102
+msgid "Edit Custom Tag"
+msgstr ""
+
+#: functions/custom-post-type.php:28
+msgid "Edit Post Types"
+msgstr ""
+
+#: 404.php:19
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: parts/content-byline.php:10
+msgid "F j, Y"
+msgstr ""
+
+#: functions/menu.php:7
+msgid "Footer Links"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width (No Sidebar)"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.xarop.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://xarop.com"
+msgstr ""
+
+#: functions/admin.php:39
+msgid "j F Y @ g:i a"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: parts/nav-title-bar.php:7 parts/nav-offcanvas-topbar.php:21
+#: parts/nav-offcanvas.php:18
+msgid "Menu"
+msgstr ""
+
+#: functions/custom-post-type.php:82
+msgid "New Custom Category Name"
+msgstr ""
+
+#: functions/custom-post-type.php:105
+msgid "New Custom Tag Name"
+msgstr ""
+
+#: functions/custom-post-type.php:29
+msgid "New Post Type"
+msgstr ""
+
+#: comments.php:34 comments.php:50
+msgid "Newer Comments"
+msgstr ""
+
+#: functions/custom-post-type.php:32
+msgid "Nothing found in the Database."
+msgstr ""
+
+#: functions/custom-post-type.php:33
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: functions/sidebar.php:16
+msgid "Offcanvas"
+msgstr ""
+
+#: comments.php:33 comments.php:49
+msgid "Older Comments"
+msgstr ""
+
+#: parts/content-missing.php:30
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#: parts/loop-single.php:20
+msgid "Pages:"
+msgstr ""
+
+#: functions/custom-post-type.php:77
+msgid "Parent Custom Category"
+msgstr ""
+
+#: functions/custom-post-type.php:78
+msgid "Parent Custom Category:"
+msgstr ""
+
+#: functions/custom-post-type.php:100
+msgid "Parent Custom Tag"
+msgstr ""
+
+#: functions/custom-post-type.php:101
+msgid "Parent Custom Tag:"
+msgstr ""
+
+#: parts/content-byline.php:9
+#, php-format
+msgid "Posted on %1$s by %2$s - %3$s"
+msgstr ""
+
+#: functions/cleanup.php:93
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: functions/cleanup.php:71
+msgid "Read"
+msgstr ""
+
+#: parts/loop-archive.php:18 parts/loop-archive-grid.php:32
+msgid "Read more..."
+msgstr ""
+
+#: functions/custom-post-type.php:75
+msgid "Search Custom Categories"
+msgstr ""
+
+#: functions/custom-post-type.php:98
+msgid "Search Custom Tags"
+msgstr ""
+
+#: functions/custom-post-type.php:31
+msgid "Search Post Type"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for:"
+msgstr ""
+
+#: functions/sidebar.php:6
+msgid "Sidebar 1"
+msgstr ""
+
+#: parts/content-missing.php:12
+msgid "Sorry, No Results."
+msgstr ""
+
+#: parts/loop-archive.php:22 parts/loop-single.php:21
+msgid "Tags:"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"The article you were looking for was not found, but maybe try looking again!"
+msgstr ""
+
+#: functions/sidebar.php:7
+msgid "The first (primary) sidebar."
+msgstr ""
+
+#: functions/menu.php:5
+msgid "The Main Menu"
+msgstr ""
+
+#: functions/menu.php:6
+msgid "The Off-Canvas Menu"
+msgstr ""
+
+#: functions/sidebar.php:17
+msgid "The offcanvas sidebar."
+msgstr ""
+
+#: functions/admin.php:35
+msgid "The RSS Feed is either empty or unavailable."
+msgstr ""
+
+#: parts/content-missing.php:24 parts/content-missing.php:42
+msgid "This is the error message in the parts/content-missing.php template."
+msgstr ""
+
+#: functions/custom-post-type.php:36
+msgid "This is the example custom post type"
+msgstr ""
+
+#: parts/content-missing.php:16
+msgid "Try your search again."
+msgstr ""
+
+#: parts/content-missing.php:34
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: functions/custom-post-type.php:80
+msgid "Update Custom Category"
+msgstr ""
+
+#: functions/custom-post-type.php:103
+msgid "Update Custom Tag"
+msgstr ""
+
+#: functions/custom-post-type.php:30
+msgid "View Post Type"
+msgstr ""
+
+#. Author of the theme
+msgid "xarop.com"
+msgstr ""
+
+#: functions/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
