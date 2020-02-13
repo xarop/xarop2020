@@ -1,11 +1,37 @@
-/******************************************************************
-Theme Name: xarop2020
-Theme URI: http://xarop.com
-Description: Xarop WP theme
-Author: xarop.com
-Author URI: http://www.xarop.com
-Version: 5.0
-License: GNU General Public License & MIT
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: Sass
-******************************************************************/
+/*
+ Theme Name:   xarop2020
+ Theme URI:    https://xarop.com.com/
+ Description:  A child theme of Twenty Twenty WordPress theme.
+ Author:       xarop.com
+ Author URI:   https://xarop.com
+ Text Domain:  xarop
+ Template:     twentytwenty-blocks
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import url("../twentytwenty-blocks/style.css");
+
+@media (min-width: 700px) {
+    .site-logo img {
+        max-height: 5rem;
+    }
+}
+
+
+.corner-ribbon {
+    position: fixed;
+    z-index: 99;
+    width: 200px;
+    text-align: center;
+    line-height: 50px;
+    letter-spacing: 1px;
+    color: #f0f0f0;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    top: auto;
+    bottom: 25px;
+    left: -50px;
+    background: #2c7; 
+}
